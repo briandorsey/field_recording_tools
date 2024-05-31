@@ -6,8 +6,7 @@ The base is compatible with Arca Swiss sized tripod heads, including square ones
 
 Needed materials:
 
- * STL file for 3d printing: 
-[medium oball wind protection adapter_2024-05-30.stl](medium oball wind protection adapter_2024-05-30.stl)
+ * STL file for 3d printing: [medium oball wind protection adapter_2024-05-30.stl](./medium oball wind protection adapter_2024-05-30.stl)
  * [Rycote Lyre (or similar suspension)](https://rycote.com/pair-of-single-lyre-19-25-ryc042210/)
  * [Oball Easy Grasp Classic Ball, 4"](https://www.kids2.com/products/10340-oball-classic-easygrasp-toy-redbluegreenyellow)
 
